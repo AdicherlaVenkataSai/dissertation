@@ -9,6 +9,10 @@ b. Conditional statements
 
 c. loops
 
+d. Numpy basics
+
+e. Pandas basics, functions.
+
 ### Pre-requisties:
 Connectivity
 
